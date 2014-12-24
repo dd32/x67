@@ -15,5 +15,5 @@ A few quick suggestions/thoughts on what this could mean:
  * List updates installed in the last 30 days
 
 This plugin can be contributed to through Github, however up-to-date nightlies are available for download from WordPress.org and within your WordPress dashboard.
-You can find the plugin at https://wordpress.org/plugins/x67-reimagining-updates/.
+You can find the plugin at https://wordpress.org/plugins/x67/.
 The copy on WordPress.org is updated with every GitHub commit, so unless you're submitting patches, it's advised to use the WordPress.org packages.

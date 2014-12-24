@@ -1,4 +1,4 @@
-=== x67 - A New UI for WordPress Updates ===
+=== x67 ===
 Contributors: dd32
 Tags: updates
 Requires at least: 4.1

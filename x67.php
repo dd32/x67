@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: x67 - A New UI for WordPress Updates
+ * Plugin Name: x67
  * Version: 0.1.%GITHUB_MERGE_SVN_REV%
  * Plugin URI: https://wordpress.org/plugins/x67/
  * Description: A plugin to mock/test a new UI for the WordPress updates screen.
